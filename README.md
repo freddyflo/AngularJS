@@ -1,6 +1,6 @@
 # Front-End JavaScript Frameworks: AngularJS
 
-### AngularJS course organised by Hong Kong University of Science and Technology on www.coursera.org
+#### AngularJS course organised by Hong Kong University of Science and Technology on www.coursera.org
 
 The course includes the following modules:
 
